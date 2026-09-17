@@ -1,4 +1,6 @@
-# 🇸🇬 Singapore Travel Assistant
+# Singapore Travel Assistant
+
+**GitHub Repository:** [github.com/goyalsushant/nagp-travel-assistant](https://github.com/goyalsushant/nagp-travel-assistant)
 
 An AI-powered **Singapore Travel Assistant** built with **RAG (Retrieval-Augmented Generation)**, **ChromaDB**, **Llama 3.1 8B**, **MCP (Model Context Protocol)**, and **Streamlit**.
 
@@ -173,10 +175,10 @@ Example:
                      ┌────────────┼────────────┐
                      │            │            │
                      ▼            ▼            ▼
-              ┌───────────┐ ┌───────────┐ ┌────────────┐
-              │   Intent  │ │    RAG    │ │    MCP     │
-              │ Detection │ │ Retrieval │ │   Tools    │
-              └───────────┘ └─────┬─────┘ └─────┬──────┘
+              ┌───────────┐ ┌───────────┐  ┌────────────┐
+              │   Intent  │ │    RAG    │  │    MCP     │
+              │ Detection │ │ Retrieval │  │   Tools    │
+              └───────────┘ └─────┬─────┘  └─────┬──────┘
                                   │              │
                                   ▼              ├──────────────┐
                             ┌───────────┐        │              │
